@@ -7,7 +7,7 @@ serta backend sudah terdapat REST API
 Aplikasi ini menggunakan:
 - React JS 
 - PHP Framework Laravel.
-- SSR Inertia
+- Inertia
 - Tailwind css
 
 ## Setup Penggunaan
