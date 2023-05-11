@@ -12,7 +12,7 @@ Aplikasi ini menggunakan:
 
 ## Setup Penggunaan
 
-- Step 1: run `php artisan migrate` dalam cmd
-- Step 2: run `php artisan serve`
-- Step 3: run `npm run dev` dalam tab cmd yang berbeda
-- Step 4: Selesai
+- Step 1: run `composer update` dalam cmd
+- Step 2: run `php artisan migrate` dalam cmd
+- Step 3: run `php artisan serve` dalam cmd
+- Step 4: run `npm run dev` dalam tab cmd yang berbeda
